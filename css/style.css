@@ -4,10 +4,14 @@
   padding: 0;
   box-sizing: border-box; }
 
-html {
-  font-size: 62.5%;
-  font-family: "Poppins", sans-sarif;
-  scroll-behavior: smooth; }
+  html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
 
 a {
     text-decoration: none;
